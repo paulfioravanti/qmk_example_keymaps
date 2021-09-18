@@ -8,7 +8,7 @@ firmware ([Georgi QMK firmware][]).
 
 My daily driver [QMK][] keymaps can be found [here][QMK Keymaps].
 
-[Chording QWERTY with QMK Combos]: https://paulfioravanti.com/blog/2019/04/28/chording-qwerty-with-qmk-combos/
+[Chording QWERTY with QMK Combos]: https://www.paulfioravanti.com/blog/chording-qwerty-qmk-combos/
 [Georgi]: https://www.gboards.ca/product/georgi
 [Georgi QMK firmware]: https://github.com/qmk/qmk_firmware/tree/master/keyboards/georgi
 [QMK]: https://qmk.fm/

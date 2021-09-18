@@ -25,5 +25,5 @@ My daily driver [QMK][] keymaps can be found [here][QMK Keymaps].
 [QMK]: https://qmk.fm/
 [QMK Keymaps]: https://github.com/paulfioravanti/qmk_keymaps
 [QWERTY Steno]: ../qwerty_steno
-[Starting Stenography with an Ergodox]: https://paulfioravanti.com/blog/2018/10/18/starting-stenography-with-an-ergodox/
+[Starting Stenography with an Ergodox]: https://www.paulfioravanti.com/blog/starting-stenography-ergodox/
 [Stenography in QMK]: https://github.com/qmk/qmk_firmware/blob/master/docs/feature_stenography.md
